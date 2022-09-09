@@ -30,5 +30,5 @@ Use 'docker scan' to run Snyk tests against images to find vulnerabilities and l
 * Just reuse locally
 
 ```dockerfile
-FROM viasat/headless-chrome-nodejs-puppeteer
+FROM marcellodesales/headless-chrome-nodejs-puppeteer:0177fde
 ```
